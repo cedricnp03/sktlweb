@@ -1,23 +1,57 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+#this file is used to add images to the publications
+#also to add any additonal info
+#please add picture if its missing
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1080/08927022.2024.2316372
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1002/pc.27902
+
+- id: doi:10.1016/j.ica.2023.121872
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0020169323004978-ga1.jpg
+
+- id: doi:10.1093/chemle/upae004
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/chemlett/53/1/10.1093_chemle_upae004/2/m_upae004_ga1.jpeg?Expires=1728537910&Signature=S~7T-BVQp-jYg6G67hZdQOit1A~mpncVWMORkMGkuFylrAv20TMqcCgsZK2NP-9zjfIwW0RJleCUwG3DJdxXk~76XBL4WPGiflfPCilFpZgIqM0hZBp9CE9r2DEWfknM6OA7JQoFJoUoCeXyhO4-r6n~VOY9xjYlEKei67p6n~fQru91lwCEnb1Q8MA8RjhawllUBHFoXgKqlRERVB9sR9SyOl5E4GQMaNLxHtxsRgPf-kDO3mVlRPTB~e3ZABOeFeNwXkRHY4zQy2NQ2LeIazorBW69ZDYR9vDpa~0udSkE1mGbiv9YF6UWUfQeroKjTzvJRVCNgyYbUSJZUYTyWg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1002/jcc.27199
+
+- id: doi:10.1021/acs.jpcc.2c06321
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.2c06321/asset/images/medium/jp2c06321_0011.gif
+
+- id: doi:10.1016/j.mcat.2022.112768
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S246882312200654X-ga1.jpg
+
+- id: doi:10.1016/j.heliyon.2021.e06542
+  image: https://www.cell.com/cms/10.1016/j.heliyon.2021.e06542/asset/ef57e883-a0bb-4d99-b324-acc40cb4ea0a/main.assets/fx1.jpg
+
+- id: doi:10.1021/acsomega.0c00203
+  image: https://pubs.acs.org/cms/10.1021/acsomega.0c00203/asset/images/medium/ao0c00203_0006.gif
+
+- id: doi:10.1038/s41467-020-14627-z
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-14627-z/MediaObjects/41467_2020_14627_Fig1_HTML.png?
+
+- id: doi:10.1002/wcms.1459
+  image: https://wires.onlinelibrary.wiley.com/cms/asset/016ec167-f9ea-4f6d-bfbb-a1fd2aac83d2/wcms1459-toc-0001-m.png
+
+- id: doi:10.1002/wcms.1419
+  image: https://wires.onlinelibrary.wiley.com/cms/asset/48b58c9e-dadc-405b-affe-0545afe2922a/wcms1419-toc-0001-m.png
+
+- id: doi:10.1380/vss.62.486
+  image: https://www.jstage.jst.go.jp/pub/vss/62/8/62_20180399/figure/62_20180399.jpg
+
+- id: doi:10.1002/tcr.201800141
+
+- id: doi:10.1021/acs.jpca.7b10664
+  image: https://pubs.acs.org/cms/10.1021/acs.jpca.7b10664/asset/images/medium/jp-2017-10664p_0007.gif
+
+- id: doi:10.1021/acs.jctc.7b00855
+  image: https://pubs.acs.org/cms/10.1021/acs.jctc.7b00855/asset/images/medium/ct-2017-00855x_0003.gif
+
+- id: doi:10.1246/bcsj.20170142
+
+- id: doi:10.1021/acs.jpcb.6b10659
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.6b10659/asset/images/medium/jp-2016-10659d_0003.gif
+
+- id: doi:10.1021/acs.jpcb.5b12439
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.5b12439/asset/images/medium/jp-2015-12439k_0006.gif
+
+

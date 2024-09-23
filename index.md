@@ -1,17 +1,16 @@
 ---
 ---
 
-# cedricnp03DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
 
 
 {% include section.html %}
 
-## Highlights
+Welcome to the home page of Sakti Lab. We're a molecular simulation laboratory  at the [Department of Chem. and Biochem](http://www.chem.waseda.ac.jp/ja/index-e.html) at [Waseda University](https://www.waseda.jp/top/en/) in Tokyo, Japan. We use theoretical and computational methods such as our in-house CMMDE program alongside with other computational techniques to uncover the underlying mechanisms and workings of how chemistry influences our world. Currently, our research focus lies in ion batteries, catalysts (homogeneous and heterogeneous), drug design, cosmetics, and condensed-phase materials.
+
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are interested in how to design batteries, catalysts, drugs and other materials that can propell us into a more sustainable and safer world.
 
 {%
   include button.html
@@ -59,12 +58,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is made up of undergraduate students, master students, PhD students, and programmers, and we come from backgrounds ranging from experimental organic chemistry to computer science. Meet the team!
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Learn more about us"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +75,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Who we are"
   text=text
 %}
