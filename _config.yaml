@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@cedricnp03DESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: cedricnp03DESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: cedricnp03DESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: cedricnp03DESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: aditya@aoni.waseda.jp
+  orcid: 0000-0003-1515-4400
+  google-scholar: FijEmSkAAAAJ
+  github: https://github.com/aditchemist
+  twitter: https://x.com/saktilab
+  instagram: https://www.instagram.com/saktilab/
 
 ### jekyll settings
 
