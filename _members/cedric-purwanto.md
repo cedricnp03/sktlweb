@@ -2,6 +2,8 @@
 name: Cedric Purwanto
 image: images/people/cedric.png
 role: masters
+affiliation: Waseda University
+
 links:
   email: cedricnp03@gmail.com 
   linkedin: https://www.linkedin.com/in/cedric-purwanto/

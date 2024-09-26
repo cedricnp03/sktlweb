@@ -3,7 +3,7 @@ name: Hiromi Nakai
 image: 
 role: prof
 group: affiliates
-affiliation: Department of Chemistry and Biochemistry, Waseda, Japan
+affiliation: Department of Chemistry and Biochemistry, Waseda
 aliases:
 links:
   home-page: https://www.researchgate.net/profile/Aditya-Sakti

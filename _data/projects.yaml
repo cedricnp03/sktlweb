@@ -1,47 +1,101 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Zeolite Transformation WIP
+  subtitle: Unravelling the molecular mechanics of zeolite transformation
+  group:
+  image: images/projects/zeolite.png
+  link: 
+  description: 
+    
+  tags:
+    - materials
+    - carbon capture
+
+- title: CMMDE.PY
+  subtitle: Streamlining Computational Workflows for Molecular and Material Design
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/projects/cmmde.png
+  link: https://github.com/aditchemist/CMMDE
+  description: 
+    CMMDE is a Python-based toolkit designed for running computational 
+    jobs and handling the analysis, visualization, and post-processing 
+    of results. It supports free and open-source applications, focusing 
+    on computational molecular and material design, enabling 
+    streamlined workflows in research and development.
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Unlocking the Potential of Lithium-Sulfur Batteries
+  subtitle: Overcoming Cycle Life and Capacity Challenges for Next-Generation Energy Storage
+  group: featured
+  image: images/projects/LiS_bat.png
+  link: 
+  description: 
+    Lithium-sulfur batteries are a promising alternative to 
+    traditional lithium-ion technology due to their high 
+    energy density, lightweight design, and lower cost. Utilizing 
+    sulfur as the cathode allows for greater storage capacity. 
+    However, key challenges include short cycle life and capacity 
+    fading, primarily caused by polysulfide shuttling during charge 
+    and discharge cycles. Research focuses on addressing these 
+    issues to unlock their full potential for energy storage.
   tags:
-    - software
+    - battery
+    - materials
+
+- title: Homogeneous Catalyst Design
+  subtitle: a subtitle
+  image: images/projects/homogeneous_cat.png
+  link: 
+  description: 
+    We aim to develop better catalysts for industrial applications.
+  tags:
+    - catalyst
+    - materials
+
+- title: Advancing Sustainable Battery Technologies at SaktiLab
+  subtitle: Exploring Eco-Friendly Solid Polymer Electrolytes and Lithium-Ion Mobility through Computational Simulations
+  group: featured
+  image: images/projects/solid_electrolyte.png
+  link: 
+  description: 
+    Batteries are a key focus of research at SaktiLab, 
+    particularly the development of eco-friendly solid polymer 
+    electrolytes using cellulose. The lab investigates 
+    lithium-ion mobility and intermolecular interactions 
+    within these materials through computational simulations, 
+    aiming to enhance performance and sustainability in energy 
+    storage technologies.
+  tags:
+    - battery
+    - materials
+
+- title: Targeting Mutant BMPR2 for Pulmonary Arterial Hypertension
+  subtitle: Identifying and Analyzing Candidate Compounds to Address BMPR2 Mutations in PAH
+  image: 
+  link: 
+  description: 
+    Bone Morphogenetic Protein Receptor type II (BMPR2) is 
+    a receptor of bone forming protein and a transmembrane 
+    protein that forms dimer. It is known that certain BMPR2 
+    mutations cause Pulmonary Arterial Hypertension (PAH). 
+    However, there is no effective treatments for PAH against 
+    mutated BMPR2. The purpose of this research is to search 
+    for candidate compounds for mutant BMPR2 and and analyze 
+    their interactions with BMPR2.
+  tags:
+    - drug discovery
+
+- title: Enhancing Ionic Conductivity in NASICON Electrolytes
+  subtitle: Utilizing DFTBMD to Identify Low-Toxic Solid-State Electrolytes
+  image: 
+  link: 
+  description: 
+    NASICON, Na super Ionic Conductors for short, has compositional 
+    formulas which contain metal and polyanion 
+    Na<sub>x</sub>M<sub>2</sub>(A<sub>O</sub>₄)<sub>3</sub>. 
+    The purpose of this research is to search for solid-state 
+    electrolytes with higher ionic conductivity and less toxic 
+    atoms using Density Functional Tight Binding Molecular Dynamics (DFTBMD).
+
+  tags:
+    - materials
+    - superionic conductors

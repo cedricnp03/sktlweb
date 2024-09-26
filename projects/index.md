@@ -7,10 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here's a quick overview of the different topics we're working on at the moment.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="battery, materials, software, drug discovery, superionic conductors, carbon capture" %}
 
 {% include search-info.html %}
 

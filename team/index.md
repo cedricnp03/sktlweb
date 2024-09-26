@@ -11,7 +11,7 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi, group:" %}
-{% include list.html data="members" component="portrait" filters="role: fellow, group:" %}
+{% include list.html data="members" component="portrait" filters="role: resfel, group:" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group:" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group:" %}
 {% include list.html data="members" component="portrait" filters="role: masters, group:" %}

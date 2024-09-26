@@ -10,6 +10,10 @@ prof:
   icon: fa-solid fa-microscope
   description: Professor
 
+resfel:
+  icon: fa-solid fa-microscope
+  description: Research Fellow
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher

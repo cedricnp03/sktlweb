@@ -2,6 +2,8 @@
 name: Mirella Fonda Maahury
 image: images/people/mirella.jpg
 role: phd
+affiliation: Waseda University
+
 links:
   email: 
   linkedin: 

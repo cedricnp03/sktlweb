@@ -3,7 +3,7 @@ name: Husin Alatas
 image: 
 role: prof
 group: affiliates
-affiliation: Physics, IPB University, Indonesia
+affiliation: Physics, IPB University
 aliases:
 links:
   home-page: 

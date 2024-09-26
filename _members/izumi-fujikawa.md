@@ -2,6 +2,8 @@
 name: Izumi Fujikawa
 image: images/people/izumi.jpg
 role: undergrad
+affiliation: Waseda University
+
 links:
   email: 
   linkedin: 

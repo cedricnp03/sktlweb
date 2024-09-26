@@ -3,7 +3,7 @@ name: Daniel Sethio
 image: 
 role: prof
 group: affiliates
-affiliation: Chemistry, Uppsala University, Sweden
+affiliation: Chemistry, Uppsala University
 aliases:
 links:
   home-page: 
