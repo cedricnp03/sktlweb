@@ -26,9 +26,9 @@ nav:
 
 ## Affiliates
 
-{% include list.html data="members" component="portrait" filters="role: pi, group: affiliates" %}
-{% include list.html data="members" component="portrait" filters="role: prof, group: affiliates" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: affiliates" %}
+{% include list.html data="members" component="portrait" filters="role: pi, group: affiliates" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: prof, group: affiliates" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: affiliates" style="small" %}
 
 
 {% include section.html %}

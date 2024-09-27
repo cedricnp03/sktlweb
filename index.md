@@ -25,7 +25,7 @@ We are interested in how to design batteries, catalysts, drugs and other materia
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects/homogeneous_cat.png"
   link="research"
   title="Our Research"
   text=text
@@ -48,7 +48,7 @@ Another way to get to know what we do is to take a quick glance into what kind o
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects/zeolite.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -73,7 +73,7 @@ Our team is made up of undergraduate students, master students, and PhD students
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group_picture.png"
   link="team"
   title="Our team"
   text=text

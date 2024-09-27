@@ -25,7 +25,6 @@
 
 - title: Unlocking the Potential of Lithium-Sulfur Batteries
   subtitle: Overcoming Cycle Life and Capacity Challenges for Next-Generation Energy Storage
-  group: featured
   image: images/projects/LiS_bat.png
   link: 
   description: 
@@ -41,12 +40,35 @@
     - battery
     - materials
 
-- title: Homogeneous Catalyst Design
-  subtitle: a subtitle
-  image: images/projects/homogeneous_cat.png
+- title: Mechanistic Study of Furfural Reduction Using Co(II) Bis(phenoxy-imine) Catalyst
+  subtitle: Elucidating the Reaction Pathway for Efficient Furfuryl Alcohol Production
+  image:
   link: 
   description: 
-    We aim to develop better catalysts for industrial applications.
+    This study focuses on the mechanistic pathway of furfural 
+    reduction to furfuryl alcohol, facilitated by a novel Co(II) 
+    bis(phenoxy-imine) catalyst developed by our lab partners. 
+    The research aims to provide valuable insights into the catalyst’s 
+    reaction mechanisms, ultimately helping to enhance its 
+    efficiency and broaden its potential applications in sustainable 
+    chemical processes.
+  tags:
+    - catalyst
+    - materials
+
+- title: Carbonylative Polymerization of Undecenol
+  subtitle: Catalyst Design for Producing Linear Polyesters from Undecenol
+  image: images/projects/undecenol.png
+  link: 
+  description: 
+    This research investigates the carbonylative polymerization 
+    of undec-10-en-1-ol, catalyzed by HCo(CO)<sub>4</sub>, to produce 
+    polydodecyloate, a key material for biodegradable plastics. 
+    A major challenge lies in preventing backbiting reactions that 
+    lead to cyclic polymers. By modifying the catalyst's ligands with 
+    P(OPh)<sub>3</sub>, PPh<sub>3</sub>, and PMe<sub>3</sub>, the 
+    study seeks to promote linear polymer formation, optimizing the 
+    reaction for sustainable polymer production.
   tags:
     - catalyst
     - materials
@@ -99,3 +121,20 @@
   tags:
     - materials
     - superionic conductors
+
+- title: Graphene Oxide-Electrolyte Interface in Sodium-Ion Batteries
+  subtitle: Investigating Sodium Ion Intercalation and Electrochemical Performance of Graphene-Based Anodes
+  image: images/projects/graphene_oxide.png
+  link: 
+  description: 
+    This research aims to explore the molecular-level 
+    interactions between sodium ions and graphene oxide within 
+    an electrolyte system. The study focuses on understanding 
+    the structural evolution and stability of graphene oxide 
+    during sodium-ion intercalation. Additionally, it seeks to 
+    identify key factors that influence the electrochemical 
+    performance of graphene-based anodes in sodium-ion batteries, 
+    aiming to improve energy storage capabilities.
+  tags:
+    - materials
+    - battery
