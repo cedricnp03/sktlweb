@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is part of the Department of Chemistry and Biochemistry at Waseda University. We're based in the Nishiwaseda campus, in room 60-211. If you're interested in collaborating, joining our lab, or you're just interested in knowing more about our research, please feel free to reach out!
+Our lab is part of the Department of Chemistry and Biochemistry at Waseda University. We're based in the <strong>Nishiwaseda campus, in room 60-211. </strong> If you're interested in collaborating, joining our lab, or you're just interested in knowing more about our research, please feel free to reach out!
 
 {%
   include button.html
@@ -31,30 +31,15 @@ Our lab is part of the Department of Chemistry and Biochemistry at Waseda Univer
 
 # {% include icon.html icon="fa-regular fa-image" %}Gallery
 
+
+
 {% capture col1 %}
-
 {% include figure.html image="images/gallery/87850.jpg" %}
-
+{% include figure.html image="images/gallery/87847.jpg" %}
 {% endcapture %}
 
 {% capture col2 %}
-
-{% include figure.html image="images/gallery/87847.jpg" %}
-
+{% include figure.html image="images/gallery/87845.jpg" %}
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
-{% capture col3 %}
-
-{% include figure.html image="images/gallery/87845.jpg" %}
-
-{% endcapture %}
-
-{% capture col4 %}
-
-{% include figure.html image="images/gallery/87855.jpg" %}
-
-{% endcapture %}
-
-{% include cols.html col1=col3 col2=col4 %}
