@@ -20,7 +20,7 @@ nav:
 
 {% include section.html %}
 
-{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
+{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="contact" style="button" %}
 
 {% include section.html %}
 

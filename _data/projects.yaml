@@ -1,13 +1,13 @@
-- title: Zeolite Transformation WIP
-  subtitle: Unravelling the molecular mechanics of zeolite transformation
-  group:
-  image: images/projects/zeolite.png
-  link: 
-  description: 
+# - title: Zeolite Transformation WIP
+#   subtitle: Unravelling the molecular mechanics of zeolite transformation
+#   group:
+#   image: images/projects/zeolite.png
+#   link: 
+#   description: 
     
-  tags:
-    - materials
-    - carbon capture
+#   tags:
+#     - materials
+#     - carbon capture
 
 - title: CMMDE.PY
   subtitle: Streamlining Computational Workflows for Molecular and Material Design
@@ -42,7 +42,7 @@
 
 - title: Mechanistic Study of Furfural Reduction Using Co(II) Bis(phenoxy-imine) Catalyst
   subtitle: Elucidating the Reaction Pathway for Efficient Furfuryl Alcohol Production
-  image:
+  image: images/projects/furfural.jpeg
   link: 
   description: 
     This study focuses on the mechanistic pathway of furfural 
@@ -108,7 +108,7 @@
 
 - title: Enhancing Ionic Conductivity in NASICON Electrolytes
   subtitle: Utilizing DFTBMD to Identify Low-Toxic Solid-State Electrolytes
-  image: 
+  image: images/projects/nasicon.png
   link: 
   description: 
     NASICON, Na super Ionic Conductors for short, has compositional 

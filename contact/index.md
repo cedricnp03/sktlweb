@@ -29,6 +29,8 @@ Our lab is part of the Department of Chemistry and Biochemistry at Waseda Univer
   width ="600px"
 %}
 
+# {% include icon.html icon="fa-regular fa-image" %}Gallery
+
 {% capture col1 %}
 
 {% include figure.html image="images/gallery/87850.jpg" %}
