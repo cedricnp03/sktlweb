@@ -54,3 +54,7 @@ jobs:
           folder: _site
           clean-exclude: ${{ env.PREVIEWS_FOLDER }}
           force: false
+      
+      - name: Commit live site to University branch
+        run: |
+          scp -r _site/* saktiwww@133.9.8.125:~/sakti

@@ -5,6 +5,7 @@ description:
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
+baseurl: "/sakti" # Only if your site is in a subdirectory
 
 # site social media and other links
 links:
