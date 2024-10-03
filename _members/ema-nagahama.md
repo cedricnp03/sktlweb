@@ -1,5 +1,5 @@
 ---
-name: Ema
+name: Ema Nagahama
 # image: images/people/ema.jpg
 role: undergrad
 affiliation: Waseda University
