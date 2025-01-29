@@ -14,7 +14,7 @@ We are interested in how to design batteries, catalysts, drugs and other materia
 
 {%
   include button.html
-  link="research"
+  link="publication"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -26,7 +26,7 @@ We are interested in how to design batteries, catalysts, drugs and other materia
 {%
   include feature.html
   image="images/projects/homogeneous_cat.png"
-  link="research"
+  link="publication"
   title="Our Research"
   text=text
 %}
