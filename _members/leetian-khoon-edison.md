@@ -1,9 +1,9 @@
 ---
-name: Yessi Permana
+name: LeeTian Khoon (Edison) 
 image: 
 role: prof
 group: affiliates
-affiliation: Chemistry, Institut Teknologi Bandung
+affiliation: National University of Malaysia 
 aliases:
 links:
   home-page: 

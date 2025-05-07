@@ -1,7 +1,7 @@
 ---
 name: Ganes Shukri
 image: 
-role: prof
+role: dr 
 group: affiliates
 affiliation: Engineering Physics, Institut Teknologi Bandung
 aliases:

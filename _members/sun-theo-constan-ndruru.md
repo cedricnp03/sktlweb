@@ -1,7 +1,7 @@
 ---
 name: Sun Theo Constan Ndruru
 image: 
-role: prof
+role: dr 
 group: affiliates
 affiliation: Chemistry, National Research and Innovation Agency
 aliases:

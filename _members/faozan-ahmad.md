@@ -1,7 +1,7 @@
 ---
 name: Faozan Ahmad
 image: 
-role: prof
+role: dr 
 group: affiliates
 affiliation: Physics, IPB University
 aliases:

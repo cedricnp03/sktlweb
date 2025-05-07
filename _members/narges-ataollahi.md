@@ -1,9 +1,9 @@
 ---
-name: Daniel Sethio
+name: Narges Ataollahi 
 image: 
-role: dr 
+role: prof
 group: affiliates
-affiliation: Chemistry, Uppsala University
+affiliation: University of Trento 
 aliases:
 links:
   home-page: 

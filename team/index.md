@@ -26,10 +26,10 @@ nav:
 
 ## Affiliates
 
-{% include list.html data="members" component="portrait" filters="role: pi, group: affiliates" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: prof, group: affiliates" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: affiliates" style="small" %}
-
+{% include list.html data="members" component="portrait" filters="role: pi, group: affiliates" style="tiny" %}
+{% include list.html data="members" component="portrait" filters="role: prof, group: affiliates" style="tiny" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: affiliates" style="tiny" %}
+{% include list.html data="members" component="portrait" filters="role: dr, group: affiliates" style="tiny" %}
 
 {% include section.html %}
 
