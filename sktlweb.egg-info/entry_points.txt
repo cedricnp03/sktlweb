@@ -1,0 +1,2 @@
+[console_scripts]
+sktlweb-cli = sktlweb.cli:main
