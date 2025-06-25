@@ -1,7 +1,7 @@
 ---
 name: Naoshi Kitamura
 image: images/people/naoshi.jpg
-role: undergrad
+role: masters
 affiliation: Waseda University
 
 links:
@@ -10,4 +10,4 @@ links:
   github: 
 ---
 
-Hi, I'm a 4th year undergraduate student
+Hi, I'm a 1st year master student

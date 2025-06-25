@@ -1,7 +1,7 @@
 ---
 name: Kensuke Ishida
 image: images/people/ishida.png
-role: masters
+role: alum
 affiliation: Waseda University
 
 links:
@@ -10,4 +10,4 @@ links:
   github: 
 ---
 
-Hi, I'm a 2nd year masters student 
+I graduated from Saktilab from 2025 April!!

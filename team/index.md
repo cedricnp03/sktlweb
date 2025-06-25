@@ -35,6 +35,8 @@ nav:
 
 ## Alumni
 
+
+{% include list.html data="members" component="portrait" filters="role: alum, group: " %}
 {% include list.html data="members" component="portrait" filters="role: pi, group: alumni" %}
 {% include list.html data="members" component="portrait" filters="role: fellow, group: alumni" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alumni" %}
