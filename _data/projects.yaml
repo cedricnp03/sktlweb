@@ -12,9 +12,9 @@
 - title: MD simulation on Lithium-Indium alloy dendrite formation
   subtitle: Streamlining Computational Workflows for Molecular and Material Design
   group: 
-  image: 
+  image: images/projects/alloy003_movie_mp4.png
   link: 
-  description: ssssssss    
+  description: We investigate the ionic conductivity of ASSLBs and Li-In alloys using MD simulations, in particular the interfacial reaction between In and LPSCI.    
   tags:
     - software
 
