@@ -49,21 +49,21 @@
     - battery
     - materials
 
-- title: Mechanistic Study of Furfural Reduction Using Co(II) Bis(phenoxy-imine) Catalyst
-  subtitle: Elucidating the Reaction Pathway for Efficient Furfuryl Alcohol Production
-  image: images/projects/furfural.jpeg
-  link: 
-  description: 
-    This study focuses on the mechanistic pathway of furfural 
-    reduction to furfuryl alcohol, facilitated by a novel Co(II) 
-    bis(phenoxy-imine) catalyst developed by our lab partners. 
-    The research aims to provide valuable insights into the catalyst’s 
-    reaction mechanisms, ultimately helping to enhance its 
-    efficiency and broaden its potential applications in sustainable 
-    chemical processes.
-  tags:
-    - catalyst
-    - materials
+# - title: Mechanistic Study of Furfural Reduction Using Co(II) Bis(phenoxy-imine) Catalyst
+#   subtitle: Elucidating the Reaction Pathway for Efficient Furfuryl Alcohol Production
+#   image: images/projects/furfural.jpeg
+#   link: 
+#   description: 
+#     This study focuses on the mechanistic pathway of furfural 
+#     reduction to furfuryl alcohol, facilitated by a novel Co(II) 
+#     bis(phenoxy-imine) catalyst developed by our lab partners. 
+#     The research aims to provide valuable insights into the catalyst’s 
+#     reaction mechanisms, ultimately helping to enhance its 
+#     efficiency and broaden its potential applications in sustainable 
+#     chemical processes.
+#   tags:
+#     - catalyst
+#     - materials
 
 - title: Carbonylative Polymerization of Undecenol
   subtitle: Catalyst Design for Producing Linear Polyesters from Undecenol
