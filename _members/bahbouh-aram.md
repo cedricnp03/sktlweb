@@ -1,7 +1,7 @@
 ---
-name: Ema Nagahama
-image: images/people/ema.jpg
-role: masters 
+name: Aram Babouh 
+image: /images/people/aram.jpg
+role: undergrad
 affiliation: Waseda University
 
 links:
