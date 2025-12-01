@@ -1,7 +1,7 @@
 ---
-name: Minori Nakazawa
-image: images/people/minori.jpg
-role: masters 
+name: Xinzhu Zhao 
+image: /images/people/constance.jpg
+role: masters
 affiliation: Waseda University
 
 links:
