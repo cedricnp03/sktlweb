@@ -370,6 +370,7 @@
   publisher: Journal of Molecular Modeling
   date: '2025-07-12'
   link: https://doi.org/hbc76j
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00894-025-06408-6/MediaObjects/894_2025_6408_Fig1_HTML.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1088/1755-1315/1521/1/012026
@@ -384,6 +385,7 @@
   publisher: 'IOP Conference Series: Earth and Environmental Science'
   date: '2025-07-01'
   link: https://doi.org/hbc76k
+  image: https://www.researchgate.net/publication/394694822/figure/fig1/AS:11431281713552059@1762302706050/Schematic-illustration-of-the-formation-process-for-bare-en-dien-and-trien-MIL-53Al.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.jpca.5c00853
@@ -399,6 +401,7 @@
   publisher: The Journal of Physical Chemistry A
   date: '2025-05-23'
   link: https://doi.org/hbc76m
+  image: https://pubs.acs.org/cms/10.1021/acs.jpca.5c00853/asset/images/medium/jp5c00853_0012.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.inoche.2025.114186
@@ -418,6 +421,7 @@
   publisher: Inorganic Chemistry Communications
   date: '2025-06-01'
   link: https://doi.org/hbc76n
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1387700325003004-ga1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1088/1742-6596/2980/1/012019
@@ -434,6 +438,7 @@
   publisher: 'Journal of Physics: Conference Series'
   date: '2025-04-01'
   link: https://doi.org/hbc76p
+  image: https://www.researchgate.net/publication/391000238/figure/fig1/AS:11431281391525643@1745330911980/Optimize-structure-of-Na4VP-a-and-Na4VPS01-b.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.mcat.2024.114103
@@ -447,6 +452,7 @@
   publisher: Molecular Catalysis
   date: '2024-05-01'
   link: https://doi.org/hbc76q
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2468823124002864-ga1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/pen.26838
@@ -471,6 +477,7 @@
   publisher: Polymer Engineering &amp; Science
   date: '2024-07-01'
   link: https://doi.org/hbc76r
+  image: https://4spepublications.onlinelibrary.wiley.com/cms/asset/bab3c965-256e-4933-b821-69f97dce45cc/pen26838-fig-0002-m.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.mcat.2022.112265
@@ -488,6 +495,7 @@
   publisher: Molecular Catalysis
   date: '2022-05-01'
   link: https://doi.org/hbc76w
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2468823122001535-ga1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acs.jpcb.1c09619
@@ -503,5 +511,6 @@
   publisher: The Journal of Physical Chemistry B
   date: '2022-03-10'
   link: https://doi.org/g5w9c4
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcb.1c09619/asset/images/large/jp1c09619_0012.jpeg
   plugin: sources.py
   file: sources.yaml
