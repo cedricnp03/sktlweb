@@ -356,3 +356,152 @@
   plugin: sources.py
   file: sources.yaml
   image: https://pubs.acs.org/cms/10.1021/acs.jpcb.5b12439/asset/images/medium/jp-2015-12439k_0006.gif
+- id: doi:10.1007/s00894-025-06408-6
+  title: "Separation mechanism and chiral-HPLC chromatogram profile of racemic mandelate\
+    \ compounds: a comparative study between experiment and computation using conformer\u2013\
+    rotamer ensemble sampling tool (CREST)-XTB"
+  authors:
+  - Fenti Fatmawati
+  - Aditya Wibawa Sakti
+  - Suci Zulaikha Hildayani
+  - ' Akhmaloka'
+  - Fida Madayanti Warganegara
+  - Muhamad Abdulkadir Martoprawiro
+  publisher: Journal of Molecular Modeling
+  date: '2025-07-12'
+  link: https://doi.org/hbc76j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1088/1755-1315/1521/1/012026
+  title: Quantum Mechanical Simulation Analysis of the Impact of Amine Derived Compounds
+    on Metal-Organic Frameworks MIL-53 (Al) for CO<sub>2</sub> Gas Adsorption
+  authors:
+  - ' Muttaqin'
+  - Muhammad Kahfi Fadhlillah
+  - Dara Khairunnisa
+  - Raisya Salsabila
+  - Aditya Wibawa Sakti
+  publisher: 'IOP Conference Series: Earth and Environmental Science'
+  date: '2025-07-01'
+  link: https://doi.org/hbc76k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpca.5c00853
+  title: Deciphering the Mechanism of the Nickel-Catalyzed Catalytic Transfer Hydrogenation
+    of Furfural to Furfuryl Alcohol
+  authors:
+  - Nova Pratiwi Indriyani
+  - Nabil Khwarizmi Syuhada
+  - Aditya Wibawa Sakti
+  - Muhamad Abdulkadir Martoprawiro
+  - Yessi Permana
+  - I Made Arcana
+  publisher: The Journal of Physical Chemistry A
+  date: '2025-05-23'
+  link: https://doi.org/hbc76m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.inoche.2025.114186
+  title: 'Synthesis, structural characterization, and catalytic performance of Pd(II)
+    complexes with fluorine- and methyl-substituted Schiff bases: Experimental and
+    theoretical insights'
+  authors:
+  - Nur Husnina Nasaruddin
+  - Shahrul Nizam Ahmad
+  - Amalina Mohd Tajuddin
+  - Nova Pratiwi Indriyani
+  - Aditya Wibawa Sakti
+  - Yessi Permana
+  - Nor Mas Mira Abd Rahman
+  - Nor Saadah Mohd Yusof
+  - Hadariah Bahron
+  publisher: Inorganic Chemistry Communications
+  date: '2025-06-01'
+  link: https://doi.org/hbc76n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1088/1742-6596/2980/1/012019
+  title: 'On the Variation of Intercalation Voltage in Si-doped (Na<sub>3+y</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3-y</sub>(SiO<sub>4</sub>)
+    <sub>y</sub>) Cathode Material: A First-Principles Study'
+  authors:
+  - Qory Cipta Scientika
+  - Sasfan Arman Wella
+  - Fadjar Fathurrahman
+  - Ahmad Nuruddin
+  - Isa Anshori
+  - Aditya Wibawa Sakti
+  - Ganes Shukri
+  publisher: 'Journal of Physics: Conference Series'
+  date: '2025-04-01'
+  link: https://doi.org/hbc76p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.mcat.2024.114103
+  title: 'Exploring the energetics of Suzuki cross-coupling reaction: A computational
+    study of palladium and nickel catalysts'
+  authors:
+  - Laila Roikhatul Jannah
+  - Aditya Wibawa Sakti
+  - Muhamad Abdulkadir Martoprawiro
+  - Gagus Ketut Sunnardianto
+  publisher: Molecular Catalysis
+  date: '2024-05-01'
+  link: https://doi.org/hbc76q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/pen.26838
+  title: Facile synthesis of carboxymethyl cellulose from Indonesia's coconut fiber
+    cellulose for bioplastics applications
+  authors:
+  - Sun Theo Constan Lotebulo Ndruru
+  - Naufal Amri
+  - Samuel Budhi Wardhana Kusuma
+  - Ridho Prasetyo
+  - Atika Trisna Hayati
+  - Rista Siti Mawarni
+  - Yenny Meliana
+  - Witta Kartika Restu
+  - Evi Triwulandari
+  - Yulianti Sampora
+  - Muhammad Ghozali
+  - Anita Marlina
+  - Aditya Wibawa Sakti
+  - Deana Wahyuningrum
+  - I Made Arcana
+  publisher: Polymer Engineering &amp; Science
+  date: '2024-07-01'
+  link: https://doi.org/hbc76r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.mcat.2022.112265
+  title: "Zr-MOFs\u2013catalyzed transfer hydrogenation of furfural to furfuryl alcohol:\
+    \ Unveiled performance of DUT-52"
+  authors:
+  - Karina Dania Agusta
+  - Martina Fridayanti Miharja
+  - Aditya Wibawa Sakti
+  - Ubed Sonai Fahruddin Arrozi
+  - Laela Mukaromah
+  - Aep Patah
+  - Takayoshi Hara
+  - Yessi Permana
+  publisher: Molecular Catalysis
+  date: '2022-05-01'
+  link: https://doi.org/hbc76w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jpcb.1c09619
+  title: Effects of Salt Concentration on the Water and Ion Self-Diffusion Coefficients
+    of a Model Aqueous Sodium-Ion Battery Electrolyte
+  authors:
+  - Aditya Wibawa Sakti
+  - Setyanto Tri Wahyudi
+  - Faozan Ahmad
+  - Noviyan Darmawan
+  - Hendradi Hardhienata
+  - Husin Alatas
+  publisher: The Journal of Physical Chemistry B
+  date: '2022-03-10'
+  link: https://doi.org/g5w9c4
+  plugin: sources.py
+  file: sources.yaml
