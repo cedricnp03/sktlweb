@@ -1,5 +1,5 @@
 ---
-name: Aram Babouh 
+name: Aram Bahbouh 
 image: /images/people/aram.jpg
 role: undergrad
 affiliation: Waseda University
