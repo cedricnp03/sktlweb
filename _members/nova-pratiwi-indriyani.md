@@ -3,7 +3,7 @@ name: Nova Pratiwi Indriyani
 image: images/people/nova.png
 role: resfel
 group:
-affiliation: Institut Teknologi Bandung
+affiliation: 
 aliases:
 links:
   home-page: 
