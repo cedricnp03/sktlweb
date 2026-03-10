@@ -1,7 +1,7 @@
 ---
 name: Mitsuki Kanno 
 image: images/people/mitsuki.jpg
-role: undergrad
+role: masters
 affiliation: Waseda University
 
 links:

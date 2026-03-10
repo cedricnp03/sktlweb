@@ -1,8 +1,8 @@
 ---
 name: Ryota Takashima 
 image: /images/people/ryota.jpg
-role: undergrad
-affiliation: Waseda University
+role: alum
+affiliation: The University of Tokyo
 
 links:
   email: 

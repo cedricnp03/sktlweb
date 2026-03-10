@@ -1,6 +1,6 @@
 ---
-name: Yuya Hashimoto
-image: images/people/yuya.jpg
+name: Yuki Kawai
+image:
 role: undergrad
 affiliation: Waseda University
 
@@ -10,4 +10,4 @@ links:
   github: 
 ---
 
-Hi, I'm a 4th year undergraduate student
+Hi, I'm a 4th year masters student.
