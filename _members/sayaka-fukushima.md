@@ -1,6 +1,6 @@
 ---
 name: Sayaka Fukushima
-image:
+image: images/people/sayaka.jpeg
 role: undergrad
 affiliation: Waseda University
 

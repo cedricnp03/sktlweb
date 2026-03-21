@@ -1,6 +1,6 @@
 ---
 name: Yuki Kawai
-image:
+image: images/people/yuki.jpeg
 role: undergrad
 affiliation: Waseda University
 
