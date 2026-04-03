@@ -1,6 +1,6 @@
 ---
 name: Uno Noyama
-image:
+image: images/people/uno.jpg
 role: undergrad
 affiliation: Waseda University
 

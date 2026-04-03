@@ -14,7 +14,7 @@ fi
 
 read -p "Do you want to sync the site (y/n)? " sync_site
 if [ "$sync_site" == "y" ]; then
-    rsync -avz -e ssh _site/ saktiwww@133.9.8.125:~/sakti
+    lftp -u "saktiwww@chem.waseda.ac.jp",<PASSWORD> -e "set ssl:verify-certificate no; mirror -R _site/ /; quit" ftp://www255.conoha.ne.jp
 fi
 #
 #read -p "Do you want to sync to GitHub (y/n)? " sync_github
