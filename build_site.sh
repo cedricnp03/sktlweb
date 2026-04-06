@@ -14,7 +14,7 @@ fi
 
 read -p "Do you want to sync the site (y/n)? " sync_site
 if [ "$sync_site" == "y" ]; then
-    lftp -u "saktiwww@chem.waseda.ac.jp",<PASSWORD> -e "set ssl:verify-certificate no; mirror -R _site/ /; quit" ftp://www255.conoha.ne.jp
+    lftp -u "saktiwww@chem.waseda.ac.jp", "nB7@w^@IlkK8" -e "set ssl:verify-certificate no; mirror -R _site/ /; quit" ftp://www255.conoha.ne.jp
 fi
 #
 #read -p "Do you want to sync to GitHub (y/n)? " sync_github
